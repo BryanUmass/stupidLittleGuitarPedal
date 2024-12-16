@@ -1,0 +1,30 @@
+.pio/build/esp32dev/libaf1/ESP8266Audio/libopus/celt/celt_encoder.c.o: \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/celt_encoder.c \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/../config.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/cpu_support.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/../opus_types.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/../opus_defines.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/../opus_types.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/os_support.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/mdct.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/kiss_fft.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/arch.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/fixed_generic.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/celt.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/../opus_custom.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/../opus_defines.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/entenc.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/entcode.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/ecintrin.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/entdec.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/pitch.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/modes.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/bands.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/rate.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/cwrs.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/stack_alloc.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/quant_bands.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/mathops.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/float_cast.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/celt_lpc.h \
+ .pio/libdeps/esp32dev/ESP8266Audio/src/libopus/celt/vq.h

@@ -1,0 +1,4 @@
+kosme/arduinoFFT@^2.0.4
+greiman/SdFat@^2.2.3
+earlephilhower/ESP8266Audio@^1.9.9
+nrf24/AutoAnalogAudio@^1.53.0
